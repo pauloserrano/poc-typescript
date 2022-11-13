@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.ts",
+    "start": "node build/app.js",
+    "build": "tsc",
     "dev": "npx nodemon src/app.ts"
   },
   "keywords": [],
