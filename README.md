@@ -2,7 +2,7 @@
 A simple CRUD to-do list application I created while learning typescript.
 ___
 ## Deploy
-Coming Soon...
+https://todo-ts-poc.herokuapp.com/items
 ___
 ## Routes
 All routes are prefixed with **/items**, so a **GET /** route described below stands for **GET /items**, and a **GET /:id** route stands for **GET /items/:id** and so on.
